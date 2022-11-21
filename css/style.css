@@ -12,6 +12,7 @@ header {
     text-align: center;
     color: #fff;
     text-transform: uppercase;
+    margin-bottom: 100px;
 }
 
 .container {
@@ -22,6 +23,7 @@ header {
 section {
     float: left;
     width: 70%;
+    margin-bottom: 100px;
 }
 
 aside {
@@ -31,5 +33,7 @@ aside {
 footer {
     color: #fff;
     clear: both;
-    background-color: #2313;
+    background-color: #475764;
+    padding: 50px 0;
+    text-align: center;
 }
