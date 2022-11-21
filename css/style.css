@@ -1,3 +1,35 @@
 body {
     background-color: #ebe6c6;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+
+header {
+    background-color: #475764;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+section {
+    float: left;
+    width: 70%;
+}
+
+aside {
+    float: right;
+    width: 25%;
+}
+footer {
+    color: #fff;
+    clear: both;
+    background-color: #2313;
 }
